@@ -1,8 +1,7 @@
 # Decodelabs-Internship
 ## PROJECT 1- DATA CLEANING AND DATA PREPARATION
 
-The objective of this project is to clean the raw data set transformimg the messy data into a structured format by handling missing valuues,duplicates and incorrect data.
-
+The objective of this project is to prepare the E-commerce raw data set transformimg the messy data into a structured format  analysis.
 
 #### STEPS INVOLVED IN DATA CLEANING PROCESS
  1. Handling missing values
