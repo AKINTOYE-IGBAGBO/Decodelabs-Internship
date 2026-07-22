@@ -41,8 +41,6 @@ The objective of this project is to  analyse the dataset of 1200 E commerce sale
 2. The high difference mean value between the mean value and median value suggest the presence of few large revenue generating orders.
 3. Using the interquartile range, about 8 orders are the outliers formimg about 2 percent of the revenue and 1 percent of the total orders.
 
-
-
 ### CATEGORICAL DATA ANALYSIS
 1. Among the product sales, the  printer is the most requested orders while chairs contribute to most of the revenue withnthe printer having a close call.
 2. The highest orders came from instagram.
