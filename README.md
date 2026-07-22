@@ -43,7 +43,7 @@ The objective of this project is to  analyse the dataset of 1200 E commerce sale
 
 
 
-##CATEGORICAL DATA ANALYSIS
+## CATEGORICAL DATA ANALYSIS
 1. Among the product sales, the  printer is the most requested orders while chairs contribute to most of the revenue withnthe printer having a close call.
 2. The highest orders came from instagram.
 3. The most prefereable mode of payment is cash.
@@ -57,7 +57,7 @@ The objective of this project is to  analyse the dataset of 1200 E commerce sale
 11. The high paying customers are lost across the years as about 25 percent of the orders were successfully deliverd in 2023.
 
 
-###RECCOMENDATIONS
+### RECCOMENDATIONS
 1. Standard procedures for poduct inspection and logistics , for example transportation route and delivery time should be thoroughly carried out before delivery to prevent returns and cancelations.
 2. Engage mmore on least performing referral source while more hands could be allocated to high performing referral souce to ensure proper communcations and feedback.
 3. Suppliers of tablet and laptop should be looked into to carry out the neccesary reccomendations.
