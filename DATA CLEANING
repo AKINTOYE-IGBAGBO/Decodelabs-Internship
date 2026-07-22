@@ -1,0 +1,18 @@
+## PROJECT 1- DATA CLEANING AND DATA PREPARATION
+ The objective of this project is to prepare the E-commerce raw data set transformimg the messy data into a structured format analysis.
+
+### STEPS INVOLVED IN DATA CLEANING PROCESS
+1. Handling missing values
+2. Standardising date formats
+3. Standardising numeric precision to 2 decimal places.
+4. Trimming text data.
+5. Check for duplicate records
+
+### Tools
+Excel- Power Query; The dataset contains 1200 rows of data which Excel as a tool fits for data cleaning for this project.
+
+### Results
+A cleaned data ready for analysis.
+1. Date format set to mm/dd/yyyy
+2. NUmeric precision of total price to 2 decimal places.
+3. After trimmimg , no duplicate records found.
