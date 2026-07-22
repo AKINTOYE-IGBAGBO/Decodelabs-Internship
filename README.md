@@ -1,7 +1,7 @@
 # Decodelabs-Internship
 ## PROJECT 1- DATA CLEANING AND DATA PREPARATION
 
-The objective of this project is to prepare the E-commerce raw data set transformimg the messy data into a structured format  analysis.
+The objective of this project is to prepare the E-commerce sales dataset transformimg the messy data into a structured format  analysis.
 
 #### STEPS INVOLVED IN DATA CLEANING PROCESS
  1. Handling missing values
@@ -30,9 +30,10 @@ The objective of this project is to  analyse the dataset of 1200 E commerce sale
 4. Identifying the outliers.
 
  ### Tools
- 1. Excel- Data analaysis for stastical data.
-           Pivot table  for categorical data analysis.
-           Interquartile range to find the out the outliers.
+ 1. Excel
+ Data analaysis for stastical data.
+ Pivot table  for categorical data analysis.
+ Interquartile range to find the out the outliers.
 
 ### Observations
 
